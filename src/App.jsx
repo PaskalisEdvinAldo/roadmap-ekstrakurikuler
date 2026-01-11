@@ -11,6 +11,15 @@ const RoadmapEkskul = () => {
       "Bahasa Inggris",
       "Bahasa Mandarin",
     ],
+    "TK MONTESSORI": [
+      "Musik",
+      "Ballet",
+      "Literasi",
+      "Gymnastic",
+      "Tae Kwon Do",
+      "Wushu",
+      "Dance",
+    ],
     "SD MONTESSORI": ["Tae Kwon Do", "Gymnastic", "Coding"],
     "SDK SANTO YUSUP II": [
       "Basket",
@@ -99,6 +108,17 @@ const RoadmapEkskul = () => {
         { nama: "Fashion Show", kategori: "Seni & Kreativitas" },
         { nama: "Bahasa Inggris", kategori: "Akademik" },
         { nama: "Teater", kategori: "Seni & Kreativitas" },
+      ],
+    },
+    "TK MONTESSORI": {
+      items: [
+        { nama: "Musik", kategori: "Seni & Kreativitas" },
+        { nama: "Ballet", kategori: "Seni & Kreativitas" },
+        { nama: "Literasi", kategori: "Akademik" },
+        { nama: "Gymnastic", kategori: "Olahraga" },
+        { nama: "Tae Kwon Do", kategori: "Olahraga" },
+        { nama: "Wushu", kategori: "Olahraga" },
+        { nama: "Dance", kategori: "Seni & Kreativitas" },
       ],
     },
     "SD MONTESSORI": {
